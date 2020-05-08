@@ -40,7 +40,8 @@
       "sidebar": "rgba(71, 71, 71, 1)",
       "sidebar_text": "rgba(230, 230, 230, 1)",
       "sidebar_highlight": "#3874b1",
-      "sidebar_highlight_text": "#fff"
+      "sidebar_highlight_text": "#fff",
+      "tab_loading": "rgb(251, 140, 162)"
     }
   }
 }
