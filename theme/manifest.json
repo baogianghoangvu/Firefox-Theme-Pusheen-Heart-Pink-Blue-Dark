@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.1",
+  "version": "1.2",
   "name": "Pusheen Heart Pink Blue",
   "theme": {
     "images": {
@@ -21,7 +21,7 @@
       "tab_selected": "#3874b1",
       "frame": "rgb(241, 212, 208)",
       "tab_background_text": "rgb(119, 79, 141)",
-      "icons": "rgba(230, 230, 230, 1)",
+      "icons": "rgba(119, 79, 141, 1)",
       "toolbar": "rgba(251, 140, 162, 0.13)",
       "bookmark_text": "#fff",
       "toolbar_field": "#fff",
