@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Pusheen Love Pink",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(251, 140, 162, 0.13)",
+      "bookmark_text": "rgb(76, 62, 101)",
+      "frame": "rgb(241, 212, 208)",
+      "tab_background_text": "rgb(119, 79, 141)",
+      "toolbar_field": "rgba(255, 255, 255, 0.53)",
+      "toolbar_field_text": "rgb(76, 62, 101)",
+      "tab_line": "rgb(251, 140, 162)",
+      "popup": "rgb(247, 238, 239)",
+      "popup_text": "rgb(76, 62, 101)",
+      "tab_loading": "rgb(251, 140, 162)"
+    }
+  }
+}
