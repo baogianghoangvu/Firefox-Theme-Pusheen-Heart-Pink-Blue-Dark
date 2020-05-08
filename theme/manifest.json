@@ -28,7 +28,7 @@
       "toolbar_field_text": "rgb(76, 62, 101)",
       "toolbar_field_border_focus": "rgba(56,116,177,0.5)",
       "toolbar_highlight": "#fff",
-      "toolbar_highlight_text": "rgba(56,116,177,0.5)",
+      "toolbar_highlight_text": "rgb(56,116,177)",
       "tab_line": "rgba(56,116,177,0.5)",
       "ntp_background": "rgba(52, 52, 52, 1)",
       "ntp_text": "rgba(230, 230, 230, 1)",
