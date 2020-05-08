@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
-  "name": "Pusheen Love Pink",
+  "version": "1.1",
+  "name": "Pusheen Heart Pink Blue",
   "theme": {
     "images": {
       "additional_backgrounds": [
@@ -18,14 +18,14 @@
     },
     "colors": {
       "button_background_active": "#3874b1",
-      "frame": "rgba(35, 35, 35, 1)",
       "tab_selected": "#3874b1",
-      "tab_background_text": "rgba(230, 230, 230, 1)",
+      "frame": "rgb(241, 212, 208)",
+      "tab_background_text": "rgb(119, 79, 141)",
       "icons": "rgba(230, 230, 230, 1)",
+      "toolbar": "rgba(251, 140, 162, 0.13)",
       "bookmark_text": "#fff",
-      "toolbar": "rgba(71, 71, 71, 1)",
       "toolbar_field": "#fff",
-      "toolbar_field_text": "rgba(52, 52, 52, 1)",
+      "toolbar_field_text": "rgb(76, 62, 101)",
       "toolbar_field_border_focus": "#3874b1",
       "toolbar_highlight": "#fff",
       "toolbar_highlight_text": "#3874b1",
@@ -40,7 +40,8 @@
       "sidebar": "rgba(71, 71, 71, 1)",
       "sidebar_text": "rgba(230, 230, 230, 1)",
       "sidebar_highlight": "#3874b1",
-      "sidebar_highlight_text": "#fff"
+      "sidebar_highlight_text": "#fff",
+      "tab_loading": "rgb(251, 140, 162)"
     }
   }
 }
