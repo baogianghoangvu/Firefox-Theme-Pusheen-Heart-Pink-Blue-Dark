@@ -1,0 +1,77 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rOVmxYlDc7a5OpNF+j3oL05h1Kk=
+SHA256-Digest: 2fqDNk4P/1E6E6LNcFM4QMm8evdsnRxgZQKg68Qeoks=
+
+Name: images/.DS_Store
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3y++sUAKzaCQmjLBz2v0kvESHgc=
+SHA256-Digest: 1lFlJ5EFymdzGAUAaI30vcaaLHt3F1LwpG7xILf9jsM=
+
+Name: images/0.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mKJ3ozycPwo/F5MjcwC7OUoiCCo=
+SHA256-Digest: Z71Hqr7FUC8x9fMdbKxjn9apsKDv+5xlc6AH8oI8kzM=
+
+Name: __MACOSX/._images
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: __MACOSX/._manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: __MACOSX/._META-INF
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: __MACOSX/images/._.DS_Store
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: C+1+kMK63pdj+hjx+0RB0x+RyHw=
+SHA256-Digest: LzgPSj0FqNkMIQb1DadQZOnOV6WYWZ3FQE+PaaAiOqk=
+
+Name: __MACOSX/images/._0.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: __MACOSX/META-INF/._manifest.mf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: __MACOSX/META-INF/._mozilla.rsa
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: __MACOSX/META-INF/._cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: __MACOSX/META-INF/._mozilla.sf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: __MACOSX/META-INF/._cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nTYCvUdF6zrGZerY66ADRkX+ST0=
+SHA256-Digest: WSC3CtRJt5tKD5npK8fDAkJLiz6/tUbQcdUU8EtM960=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NxWG7iEXZP4IZsWIqvUJwvDqUbk=
+SHA256-Digest: Z/B6Xwf/Geou+j4+ku+n0f1bAnBodqemOBRmV4N0mwo=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MlCEI75MOKiIqBwncuElMCn1i50=
+SHA256-Digest: eGFLxi/2BJMwyAoTxu0NCE8E+utOnjTANgC4SEte2tg=
+
